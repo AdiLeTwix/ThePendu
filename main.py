@@ -58,7 +58,7 @@ class Dictionnair:
         self.exeTime = time.time() - self.exeTime
         return mots[0]
 
-
+#test github
 class pendu:
 
     def __init__(self):
